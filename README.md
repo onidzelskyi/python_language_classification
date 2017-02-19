@@ -1,6 +1,36 @@
-# python_language_classification
 Python Language classification problem
 ======================================
+
+## Project' structure ##
+
+docs/
+    report.md           Report document
+    task.md             Task description
+
+pylangkit/
+    naive_bayes.py      Implementation of Naive Bayes language classification algorithm
+
+resources/
+    lang_data.csv       Input dataset
+    lang_data_test.csv  Test dataset
+    lang_data_train.csv Train dataset
+    test_model.pickle   Pickled trained model for testing purposes
+    train_model.pickle  Pickled trained model for classification demo task
+
+tests/
+    test_naive_bayes.py Tests of Naive Bayes language classification algorithm
+
+demo.py                 Demo app of language classification task
+
+Input_Data_Analysis_and_Model_Training.ipynb    Ipyton notebook with data analysis, training model, classification task and evaluation.
+
+LICENSE                 License file
+
+README.md               this file with short description of project
+
+requirements.txt        Requirements of libraries and packages
+
+setup.py                Setup file for package installation
 
 ## Environment setup ##
 
