@@ -2,4 +2,4 @@ pandas>=0.19
 scikit_learn>=0.18
 nltk>=3.2
 pytest>=3.0
-
+scipy>=0.18
