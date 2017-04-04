@@ -3,6 +3,7 @@ Python Language classification problem
 
 ## Project' structure ##
 
+```
 docs/
     report.md           Report document
     task.md             Task description
@@ -31,6 +32,7 @@ README.md               this file with short description of project
 requirements.txt        Requirements of libraries and packages
 
 setup.py                Setup file for package installation
+```
 
 ## Environment setup ##
 
