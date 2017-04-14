@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/onidzelskyi/python_product_category_classification.svg?style=svg)](https://circleci.com/gh/onidzelskyi/python_product_category_classification)
+
 Python Language classification problem
 ======================================
 
